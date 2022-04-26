@@ -5,7 +5,7 @@
 ## Apakah Python?
 Python ialah bahasa pengaturcaraan yang popular. Ia dicipta oleh Guido van Rossum, dan dikeluarkan pada tahun 1991.
 
-...Ia digunakan untuk:
+⋅⋅⋅Ia digunakan untuk:
 + pembangunan web (sebelah pelayan),
 + pembangunan perisian,
 + matematik,
