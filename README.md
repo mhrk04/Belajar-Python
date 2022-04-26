@@ -2,6 +2,15 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="Python Logo" width="20%" />
 
+Indeks :
+- [Belajar-Python](#belajar-python)
+  - [Apakah Python?](#apakah-python)
+  - [Apa yang Python boleh lakukan?](#apa-yang-python-boleh-lakukan)
+  - [Mengapa Python?](#mengapa-python)
+  - [Sintaks Python berbanding dengan bahasa pengaturcaraan lain](#sintaks-python-berbanding-dengan-bahasa-pengaturcaraan-lain)
+  - [Sumber Pembelajaran](#sumber-pembelajaran)
+  - [Cara Kerja Program dan bytecode](#cara-kerja-program-dan-bytecode)
+
 ## Apakah Python?
 Python ialah bahasa pengaturcaraan yang popular. Ia dicipta oleh Guido van Rossum, dan dikeluarkan pada tahun 1991.
 
