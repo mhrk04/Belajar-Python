@@ -11,7 +11,7 @@
 |`//`| Floor division(hasil bahagi dibundarkan ke nilai terbawah)|`x // y`|
 
 ## Turutan Pengiraan
-Pengiraan di python yan diutamakan:
+Pengiraan di python yang diutamakan:
 1. `()`
 2. `**`
 3. `*`, `/`, `%`,`//`
