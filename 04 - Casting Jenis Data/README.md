@@ -9,7 +9,12 @@
 |`string(float|boolean|int)`|tukarkan jenis data lain kepada jenis **string**|
 
 ## Tambahan
+
 + `bool(0)` menghasilkan **FALSE**
 + `int(9.9)` menghasilkan **9** (dibulatkan ke nilai bawah)
 + `bool("")` string kosong menghasilakn **FALSE**
 + `int("ayam")` hasilakan ERROR kerana hanya boleh tukarkan nombor sahaja
+
+## Alternative
+
+<img src="table%20casting.png">
