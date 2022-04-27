@@ -2,11 +2,11 @@
 
 **Casting** ialah mengubah satu jenis data ke jenis data yang berbeza
 |Built in Functions|Kegunaan|
-|------------------------|--------------------------------|
-| ```bool(string|int|float)` ``| tukarkan jenis data lain kepada jenis **boolean** |
-| ```float(string|boolean|int)``` | tukarkan jenis data lain kepada jenis **float** |
-| ```int(string|boolean|float)```| tukarkan jenis data lain kepada jenis **int** |
-| ```string(float|boolean|int)``` | tukarkan jenis data lain kepada jenis **string** |
+|-----|--------------------------------|
+|`bool(string|int|float)`|tukarkan jenis data lain kepada jenis **boolean**|
+|`float(string|boolean|int)`|tukarkan jenis data lain kepada jenis **float**|
+|`int(string|boolean|float)`|tukarkan jenis data lain kepada jenis **int**|
+|`string(float|boolean|int)`|tukarkan jenis data lain kepada jenis **string**|
 
 ## Tambahan
 + `bool(0)` menghasilkan **FALSE**
