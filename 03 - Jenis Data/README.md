@@ -17,3 +17,17 @@
 ## Python Built in Functions yang terdapat dalam kod
 1. `type()` - Returns the type of an object
 2. `print()` - 	Prints to the standard output device
+
+
+## W3school Tambahan
+
+| Jenis data        | Nama    |
+|-------------------|---------|
+|Text               |   str   |
+|Numeric            |int, float, complex|
+|Sequence           | 	list, tuple, range|
+|Mapping            | 	dict|
+|Set                |  set, frozenset|
+|Boolean            |  bool|
+|Binary             |  bytes, bytearray, memoryview|
+|None               | 	NoneType|
