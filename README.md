@@ -53,3 +53,10 @@ Ia digunakan untuk:
 atau dicompile terlebih dahulu
 3. Kod program dijalankan dari atas ke bawah
 
+## Sintaks Python berbanding dengan bahasa pengaturcaraan lain
+
++ Python direka untuk kebolehbacaan, dan mempunyai beberapa persamaan dengan bahasa Inggeris dengan pengaruh daripada matematik.
+
++ Python menggunakan baris baharu untuk melengkapkan arahan, berbanding bahasa pengaturcaraan lain yang sering menggunakan koma bertitik atau kurungan.
+
++ Python bergantung pada indentasi, menggunakan ruang putih(Jarak kosong), untuk menentukan skop; seperti skop gelung, fungsi dan kelas. Bahasa pengaturcaraan lain sering menggunakan kurungan kerinting untuk tujuan ini.
