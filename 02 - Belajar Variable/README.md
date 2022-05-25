@@ -18,3 +18,6 @@ tidak boleh dilakukan :
 my-var = "John"
 my var = "John"
 ```
+
+
+- letakkan keyword `global` di dalam variable local di function membolehkan variable digunakan diluar daripada function.
