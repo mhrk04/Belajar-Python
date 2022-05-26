@@ -31,3 +31,17 @@
 |Boolean            |  bool|
 |Binary             |  bytes, bytearray, memoryview|
 |None               | 	NoneType|
+
+
+## Boolean
+
+***Return False :***
+```python
+bool(False)
+bool(None)
+bool(0)
+bool("")
+bool(())
+bool([])
+bool({})
+```
