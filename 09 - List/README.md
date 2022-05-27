@@ -43,9 +43,10 @@ print(thislist)
 ```
 
 ### List Items - Data Types
+
 List items can be of any data type. From string to boolean.
 
-+ in one list can contain multiple type of data 
++ in one list can contain multiple type of data
 
 ```python
 list1 = ["abc", 34, True, 40, "male"]
@@ -55,6 +56,7 @@ list1 = ["abc", 34, True, 40, "male"]
 From Python's perspective, lists are defined as objects with the data type 'list':
 
 ## Python Collections (Arrays)
+
 There are four collection data types in the Python programming language:
 
 + `List` is a collection which is ordered and changeable. Allows duplicate members.
@@ -64,3 +66,49 @@ There are four collection data types in the Python programming language:
 + `Set` is a collection which is unordered, unchangeable*, and unindexed. No duplicate members.
 
 + `Dictionary` is a collection which is **ordered** and changeable. No duplicate members.
+
+## Access list - Range of Indexes
+
+```python
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[2:5])
+
+#This will return the items from position 2 to 5.
+
+#Remember that the first item is position 0,
+#and note that the item in position 5 is NOT included
+```
+
+
+## Check if Item Exists
+
+```python
+thislist = ["apple", "banana", "cherry"]
+if "apple" in thislist:
+  print("Yes, 'apple' is in the fruits list")
+```
+
+Output :
+```
+Yes, 'apple' is in the fruits list
+```
+
+
+
+## Change Item Value
+
+```python
+thislist = ["apple", "banana", "cherry"]
+thislist[1] = "blackcurrant"
+print(thislist)
+```
+
+## Insert Items
+
+The `insert()` method inserts an item at the specified index:
+
+```python
+thislist = ["apple", "banana", "cherry"]
+thislist.insert(2, "watermelon")
+print(thislist)
+```
