@@ -79,7 +79,6 @@ print(thislist[2:5])
 #and note that the item in position 5 is NOT included
 ```
 
-
 ## Check if Item Exists
 
 ```python
@@ -89,11 +88,10 @@ if "apple" in thislist:
 ```
 
 Output :
+
 ```
 Yes, 'apple' is in the fruits list
 ```
-
-
 
 ## Change Item Value
 
@@ -112,3 +110,75 @@ thislist = ["apple", "banana", "cherry"]
 thislist.insert(2, "watermelon")
 print(thislist)
 ```
+
+## Remove Specified Item
+
+```python
+thislist = ["apple", "banana", "cherry"]
+thislist.remove("banana")
+print(thislist)
+```
+
+Output :
+
+```python
+['apple', 'cherry']
+```
+
+## Remove Specified Index
+
+use `pop(indexNumber)` method, `del` keyword & `clear()` method.
+
+usage:
+
+```python
+thislist = ["apple", "banana", "cherry"]
+
+thislist.pop(1)
+thislist.pop()
+del thislist[0]
+del thislist
+thislist.clear()
+```
+
+## Loop through list
+
+```python
+thislist = ["apple", "banana", "cherry"]
+for x in thislist:
+  print(x)
+```
+
+## Loop Through the Index Numbers
+
+```python
+thislist = ["apple", "banana", "cherry"]
+for i in range(len(thislist)):
+  print(thislist[i])
+```
+
+## Using a While Loop
+
+You can loop through the list items by using a while loop.
+
+Use the len() function to determine the length of the list, then start at 0 and loop your way through the list items by refering to their indexes.
+
+Remember to increase the index by 1 after each iteration.
+
+```python
+thislist = ["apple", "banana", "cherry"]
+i = 0
+while i < len(thislist):
+  print(thislist[i])
+  i = i + 1
+```
+
+## Looping Using List Comprehension
+
+A short hand `for` loop that will print all items in a list:
+
+```python
+thislist = ["apple", "banana", "cherry"]
+[print(x) for x in thislist]
+```
+
